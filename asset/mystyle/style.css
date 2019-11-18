@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Calistoga&display=swap');
+
+body {
+	background-color: #f8c61e;
+}
+
+.kepala {
+	font-family: 'Calistoga', cursive;
+	font-weight: 400;
+	transform: translateY(50%) !important;
+}
