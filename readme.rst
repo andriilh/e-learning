@@ -8,5 +8,6 @@ melancarkan kegiatan sekolah yakni e-learning
 *******************
 Tentang Saya:
 *******************
-Nama 	: Andri Ilham
-NPM 	: 17 111 322
+Nama 	: Andri Ilham\
+NPM 	: 17 111 322\
+Kelas	: TIF RP 17 CID C
