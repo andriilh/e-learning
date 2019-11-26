@@ -11,7 +11,7 @@ class Welcome extends CI_Controller
 		$this->load->model("M_mhs");
 
 		if ($this->session->userdata('status') != "login") {
-			// redirect("Welcome/index");
+			redirect("Welcome");
 		}
 	}
 
