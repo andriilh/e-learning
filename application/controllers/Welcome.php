@@ -20,7 +20,6 @@ class Welcome extends CI_Controller
 		$data['title'] = "Selamat Datang";
 		$this->load->view('utility/sb-head', $data);
 		$this->load->view('landing');
-		// $this->db->query('INSERT INTO users (nama,noinduk,password,status) VALUES ("Andri","17111322",md5("ndeso$21"))');
 	}
 
 	public function pgRegister()
